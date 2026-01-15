@@ -1,1 +1,50 @@
+HOTEL INFORMATION 
+
+# General Hotel Information
+-	Hotel Name: [Hotel Name]
+-	Address: [Hotel Address]
+-	Phone: [Hotel Phone Number]
+-	Email: [Hotel Email Address]
+-	Check-In Time: 3:00 PM
+-	Check-Out Time: 11:00 AM
+-	Wi-Fi: Complimentary in all guest rooms and public areas.
+# Room Types & Pricing
+-	Standard Room: 1 King or 2 Queen Beds, Desk, TV, Coffee Maker – $129–$159/night
+-	Deluxe Room: Larger layout, Premium Bedding, Mini-Fridge, City View – $159–$199/night
+-	Suite: Separate Living Area, Sofa Bed, Dining Table, Wet Bar – $229–$289/night- Accessible Rooms: Roll-in Shower, Grab Bars, Accessible Technology – Price same as corresponding room type
+# Amenities & Services
+-	Restaurant & Bar: Open daily 6:30 AM – 10:00 PM
+-	Room Service: 7:00 AM – 9:00 PM
+-	Fitness Center: 24/7 access with guest key card
+-	Pool & Hot Tub: 8:00 AM – 10:00 PM (Towels provided)
+-	Business Center: 24/7, Printing/Copying available
+-	Laundry Service: Same-day if requested before 9:00 AM
+-	Shuttle Service: Free shuttle within 5 miles, 7:00 AM – 9:00 PM- Concierge Desk: Available 9:00 AM – 7:00 PM
+# Pet Policy
+-	Pets under 50 lbs allowed
+-	$75 non-refundable cleaning fee per stay
+-	Pets must be crated if left unattended- Service animals welcome free of charge
+# Restaurant Information
+-	On-Site Restaurant: [Restaurant Name]
+-	Cuisine: American/Local Favorites
+-	Menu Request: Available digitally or printed at Front Desk
+# Hotel Policies
+-	Cancellation Policy: Free cancellation up to 24 hours before check-in
+-	No Smoking Policy: 100% smoke-free property. $250 fee for violations
+-	Parking: Free self-parking; valet service $25/night- Quiet Hours: 10:00 PM – 7:00 AM
+# Emergencies & Complaints
+-	Medical Emergency: Dial 911 immediately
+-	Hotel Security: Available 24/7 – contact Front Desk
+-	Complaints: Contact Front Desk or Manager on Duty
+# Local Things to Do
+-	City Museum (1.5 miles)
+-	Riverwalk & Park (2 miles)
+-	Shopping District (3 miles)
+-	Theater & Entertainment District (2.5 miles) - Winery & Brewery Tours (5 miles)
+# Guest Requests
+-	Extra Towels/Pillows: Deliver request to Housekeeping
+-	Restaurant Menu: Provide digital copy or arrange printed menu
+-	Shuttle Request: Confirm destination and schedule with shuttle desk
+-	Late Check-Out: Subject to availability; fees may apply
+-	Complaints: Express empathy, record details, and escalate to Manager
 
