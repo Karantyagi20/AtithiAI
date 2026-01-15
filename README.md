@@ -38,17 +38,20 @@ This project is developed as part of an academic AI project and demonstrates the
 ```
 AtithiAI/
 │
-├── knowledge/
-│   └── hotel_policies.pdf
+├── code/
+│   ├── agent_config.py
+│   └── main.py
 │
 ├── prompts/
 │   └── agent_instructions.txt
 │
-├── docs/
-│   └── project_report.md
+├── knowledge/
+│   └── hotel_policies.txt
 │
 ├── README.md
+├── requirements.txt
 └── .gitignore
+
 ```
 
 ---
